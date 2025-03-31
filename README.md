@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey traveler✨
 
-<!--
-**tatuaua/tatuaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tatuaua)
 
-Here are some ideas to get you started:
+<img align="right" src="./room.png"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Made with Blender ❤️.
+
+## 🫣 About me
+
+<div style="border: 2px solid #ccc; padding: 10px; border-radius: 10px; background-color:rgb(228, 230, 234);">
+
+Hello there! ☕✨.<br> I'm tatuaua, a **cloud software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I’ve spent the last five years coding, learning, and growing.
+
+> This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀
+
+</div>
+
+## 📈 Profile stats
+
+<div style="display: flex; flex-direction: row;">
+  <img style="height: auto; width: 55%; margin-right:8px;" src="https://github-readme-stats-salesp07.vercel.app/api?username=tatuaua&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
+
+<img style="height: auto; width: 40%;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tatuaua&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+## 🛠️ Tech stack
+
+| I'm working with                                                                                                                                         |                                                                 I'm learning |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=java,spring,git,postgres,postman,docker,vscode&perline=9" /> | <img src="https://skillicons.dev/icons?i=python,kotlin,c,cs" /> |
+
+## 🗂️ GitHub contributions
+
+<a href="#"><img alt="tatuaua contributions" src="https://github-readme-activity-graph.vercel.app/graph/?username=tatuaua&bg_color=1F222E&color=52B983&line=52B983&point=FFFFFF&hide_border=true" /></a>
