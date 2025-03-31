@@ -1,21 +1,3 @@
-# Hey traveler✨
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tatuaua)
-
-<img align="right" src="./room.png"/>
-
-###### Made with Blender ❤️.
-
-## 🫣 About me
-
-<div style="border: 2px solid #ccc; padding: 10px; border-radius: 10px; background-color:rgb(228, 230, 234);">
-
-Hello there! ☕✨.<br> I'm tatuaua, a **cloud software engineer** ☁️💻 with a background in **cybersecurity** and experience in a **Cloud Center of Excellence**. I’ve spent the last five years coding, learning, and growing.
-
-> This GitHub marks a **fresh start** where I create, collaborate, and bring inspiring projects to life. 🚀
-
-</div>
-
 ## 📈 Profile stats
 
 <div style="display: flex; flex-direction: row;">
