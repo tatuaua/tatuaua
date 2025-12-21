@@ -10,7 +10,7 @@
 
 | I'm working with                                                                                                                                         |                                                                 I'm learning |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=java,spring,git,postgres,postman,docker,vscode&perline=9" /> | <img src="https://skillicons.dev/icons?i=python,kotlin,c,cs" /> |
+| <img src="https://skillicons.dev/icons?i=java,cs,spring,git,postgres,postman,docker,vscode&perline=9" /> | <img src="https://skillicons.dev/icons?i=python,kotlin" /> |
 
 ## 🗂️ GitHub contributions
 
